@@ -5,7 +5,7 @@ Business Website Landing page
 
 Name : Suraj Landage
 
-Business website Link : https://mortallll.github.io/business_website/
+Business website Link : https://mortallll.github.io/businessLandingPag/
 
-Business website repository Link: https://github.com/mortallll/business_website.git
+Business website repository Link: https://github.com/surajlandage/businessLandingPage.git
 

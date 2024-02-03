@@ -7,5 +7,7 @@ Name : Suraj Landage
 
 Business website Link : https://surajlandage.github.io/businessLandingPage/
 
-Business website repository Link: https://github.com/surajlandage/businessLandingPage.git
+Business website repository Link: https://github.com/surajl7/businessLandingPage.git
+
+
 

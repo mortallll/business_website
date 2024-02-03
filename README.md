@@ -3,7 +3,7 @@ Business Website Landing page
 
 
 
-Name : Suraj Landage
+Name : Suraj L
 
 Business website Link : https://surajlandage.github.io/businessLandingPage/
 
